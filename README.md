@@ -1,7 +1,6 @@
 # TugasSQL_BIA_CDP
 PT VWXYZ mencatat transaksi hariannya di sheet dengan mengelompokkan
-data menjadi kategori Order, Product dan Customers seperti di link dibawah
-ini Dataset Superstore - BI Analyst
+data menjadi kategori Order, Product dan Customers.
 Keterangan :
 - Tabel Order berisi daftar pesanan customer disertai barang yang
 dipesan
