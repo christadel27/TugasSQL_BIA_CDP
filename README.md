@@ -30,3 +30,6 @@ Furnishings & Supplies
 keterangan “black” di nama produknya)
 12. Jumlah order yang memiliki waktu pengiriman masih di hari
 yang sama dengan waktu pemesanan
+untuk hasilnya mendapatkan nilai yang sangat bagus dengan sertifikat tanda bukti saya mengerjakan dengan baik
+![image](https://github.com/christadel27/TugasSQL_BIA_CDP/assets/133072315/13ac56f4-1a9f-4c8d-9bb1-0081be7b2d98)
+
